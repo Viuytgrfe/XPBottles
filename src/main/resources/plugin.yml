@@ -1,0 +1,10 @@
+name: BigXPBottles
+version: '${project.version}'
+main: me.bigxpbottles.bigxpbottles.BigXPBottles
+api-version: 1.19
+authors: [ Vineer ]
+description: с помощью команды забирает нужное число опыта и выдаёт в виде пузырька
+commands:
+  fb:
+    description: помещает в бутылку нужное количество уровней
+    usage: /<command> num of xp
